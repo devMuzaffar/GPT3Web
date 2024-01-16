@@ -8,7 +8,7 @@ Responsive Modern GPT-3 Website created using React JS
 - React JS
 
 # Live Site
-- 
+- https://gpt3mk.netlify.app/
 
 # Screenshots
 ![1](https://github.com/devMuzaffar/GPT3Web/assets/4027728/f3be10db-a7f7-42a0-81b7-dc4b3a15db84)
